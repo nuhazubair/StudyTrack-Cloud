@@ -108,6 +108,7 @@ def home():
                 <h2>Dashboard</h2>
                 <p>Welcome to StudyTrack Cloud.</p>
                 <p>Manage your subjects, assignments and study progress in one place.</p>
+                <p><b>Cloud-powered learning made simple.</b></p>
             </div>
 
             <div class="card">
